@@ -5,7 +5,7 @@ import sys
 from datetime import datetime
 
 # populate this with numbers as strings like so:
-# +1ABCDEFGHIJ
+# +1XXXYYYZZZZ
 # ex: +19990001111
 # +1 is always there. idk if this works for other country codes.
 recipients = []
